@@ -37,7 +37,7 @@ function showProduct(product) {
       })
 }
 
-    ////
+    //// Bouton ajouter
     const addToCart = document.getElementById("addToCart");
 addToCart.addEventListener("click", () => {
   const quantity = parseInt(document.getElementById("quantity").value);
@@ -65,8 +65,10 @@ addToCart.addEventListener("click", () => {
   }
 // Si le panier est vide, ajoutez le premier produit
   localStorage.setItem("addToCart", JSON.stringify(addProductLocalStorage));
+
+  alert(`${quantity} articles de couleur ${color} ont été ajoutés au panier !`)
+
 });
   
-
 /// AJOUTER ALERTE PRODUIT AJOUTER DANS LE PANIER 
 
