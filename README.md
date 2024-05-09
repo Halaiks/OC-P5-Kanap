@@ -1,15 +1,27 @@
-# Kanap #
+# <p align="center"><img src="front/images/logo.png" /></p>
+<p align="center">Projet réalisé dans le cadre de la formation Développeur Web avec OpenClassrooms</p>
 
-This is the front end and back end server for Project 5 of the Web Developer path.
+## 🧐 Contexte (fictif)
+Vous êtes en poste dans une agence de développement web depuis quelques semaines maintenant. Après avoir réalisé avec succès l’intégration de quelques sites web (HTML/CSS), on vous confie une nouvelle mission.
 
-### Back end Prerequisites ###
+Votre client est Kanap, une marque de canapés qui vend ses produits depuis sa boutique exclusivement. Aujourd’hui, celle-ci souhaiterait avoir une plateforme de e-commerce en plus de sa boutique physique pour vendre ses produits sur Internet.
 
-You will need to have Node and `npm` installed locally on your machine.
+## 🚀 Objectifs
+XXX
 
-### Back end Installation ###
+## 🛠️ Technologies
 
-Clone this repo. From the "back" folder of the project, run `npm install`. You 
-can then run the server with `node server`. 
-The server should run on `localhost` with default port `3000`. If the
-server runs on another port for any reason, this is printed to the
-console when the server starts, e.g. `Listening on port 3001`.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
+
+## 🏆 Résultat
+
+<p align="center"><img src="screenshots/Kanap.png" /></p>
+
+## 🙋🏼‍♂️ Auteur
+
+#### Alexandre GUILLAUME
+
+- Site web : [Alexandre-Guillaume.fr](https://alexandre-guillaume.fr)
+- Github : [@Halaiks](https://github.com/Halaiks)
