@@ -1,3 +1,5 @@
+<p align="center">ℹ️ <b>Un README plus complet arrive bientôt ...</b></p>
+
 # <p align="center"><img src="front/images/logo.png" /></p>
 <p align="center">Projet réalisé dans le cadre de la formation Développeur Web avec OpenClassrooms</p>
 
